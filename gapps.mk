@@ -17,7 +17,7 @@ PRODUCT_COPY_FILES += \
     vendor/google/system/app/NetworkLocation.apk:system/app/NetworkLocation.apk \
     vendor/google/system/app/OneTimeInitializer.apk:system/app/OneTimeInitializer.apk \
     vendor/google/system/app/SetupWizard.apk:system/app/SetupWizard.apk \
-    vendor/google/system/app/Talk2.apk:system/app/Talk.apk \
+    vendor/google/system/app/Talk.apk:system/app/Talk.apk \
     vendor/google/system/app/Vending.apk:system/app/Vending.apk \
     vendor/google/system/etc/permissions/com.google.android.maps.xml:system/etc/permissions/com.google.android.maps.xml \
     vendor/google/system/etc/permissions/features.xml:system/etc/permissions/features.xml \
