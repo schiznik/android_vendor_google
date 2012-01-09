@@ -1,5 +1,6 @@
 # Google Apps
 PRODUCT_COPY_FILES += \
+    vendor/google/system/app/CarHomeGoogle.apk:system/app/CarHomeGoogle.apk
     vendor/google/system/app/FOTAKill.apk:system/app/FOTAKill.apk \
     vendor/google/system/app/GenieWidget.apk:system/app/GenieWidget.apk \
     vendor/google/system/app/Gmail.apk:system/app/Gmail.apk \
@@ -16,10 +17,11 @@ PRODUCT_COPY_FILES += \
     vendor/google/system/app/NetworkLocation.apk:system/app/NetworkLocation.apk \
     vendor/google/system/app/OneTimeInitializer.apk:system/app/OneTimeInitializer.apk \
     vendor/google/system/app/SetupWizard.apk:system/app/SetupWizard.apk \
-    vendor/google/system/app/Talk2.apk:system/app/Talk2.apk \
+    vendor/google/system/app/Talk2.apk:system/app/Talk.apk \
     vendor/google/system/app/Vending.apk:system/app/Vending.apk \
     vendor/google/system/etc/permissions/com.google.android.maps.xml:system/etc/permissions/com.google.android.maps.xml \
     vendor/google/system/etc/permissions/features.xml:system/etc/permissions/features.xml \
     vendor/google/system/framework/com.google.android.maps.jar:system/framework/com.google.android.maps.jar \
-    vendor/google/system/lib/libtalk_jni.so:system/lib/libtalk_jni.so
+    vendor/google/system/lib/libtalk_jni.so:system/lib/libtalk_jni.so \
+    vendor/google/system/lib/libvoicesearch.so:system/lib/libvoicesearch.so
 
