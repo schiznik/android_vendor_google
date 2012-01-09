@@ -1,6 +1,6 @@
 # Google Apps
 PRODUCT_COPY_FILES += \
-    vendor/google/system/app/CarHomeGoogle.apk:system/app/CarHomeGoogle.apk
+    vendor/google/system/app/CarHomeGoogle.apk:system/app/CarHomeGoogle.apk \	
     vendor/google/system/app/FOTAKill.apk:system/app/FOTAKill.apk \
     vendor/google/system/app/GenieWidget.apk:system/app/GenieWidget.apk \
     vendor/google/system/app/Gmail.apk:system/app/Gmail.apk \
