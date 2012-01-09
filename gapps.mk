@@ -24,4 +24,3 @@ PRODUCT_COPY_FILES += \
     vendor/google/system/framework/com.google.android.maps.jar:system/framework/com.google.android.maps.jar \
     vendor/google/system/lib/libtalk_jni.so:system/lib/libtalk_jni.so \
     vendor/google/system/lib/libvoicesearch.so:system/lib/libvoicesearch.so
-
